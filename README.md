@@ -3,8 +3,8 @@
 Marketplace package for the `navigate_to` capability (`external_ros_node` → Nav2 `NavigateToPose`).
 
 ```bash
-npx agenticros skills install agenticros/navigate-to
-# or: "skillRefs": ["agenticros/navigate-to"]
+npx agenticros skills install chrismatthieu/navigate-to
+# or: "skillRefs": ["chrismatthieu/navigate-to"]
 ```
 
 AgenticROS does **not** launch Nav2. Bring up Nav2 on the robot (or sim), then install this skill and restart the gateway / MCP server.
