@@ -3,7 +3,8 @@
 Marketplace package for the `navigate_to` capability (`external_ros_node` → Nav2 `NavigateToPose`).
 
 ```bash
-npx agenticros skills install chrismatthieu/navigate-to
+npx agenticros skills install /navigate-to
+# or: npx agenticros skills install chrismatthieu/navigate-to
 # or: "skillRefs": ["chrismatthieu/navigate-to"]
 ```
 
