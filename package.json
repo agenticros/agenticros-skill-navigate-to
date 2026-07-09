@@ -1,5 +1,5 @@
 {
-  "name": "agenticros-skill-navigate-to",
+  "name": "@agenticros-skills/navigate-to",
   "version": "0.1.0",
   "type": "module",
   "description": "External ROS-node skill: navigate to a pose via Nav2 NavigateToPose.",
@@ -83,5 +83,8 @@
     "typescript": "^5.7.0"
   },
   "author": "AgenticROS",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  }
 }
